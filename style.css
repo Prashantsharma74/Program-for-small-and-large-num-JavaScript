@@ -1,0 +1,17 @@
+section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 90vh;
+    background-image: url("./C-Program-To-Find-Largest-And-Smallest-Number-In-An-Array.png");
+    background-size: cover;
+    background-position: center;
+}
+button{
+    height: 60px;
+    width: 150px;
+}
+button:hover{
+    letter-spacing: 2px;
+    transform: scale(110%);
+}
